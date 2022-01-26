@@ -1,6 +1,14 @@
 [
   {
     "chainId":1666600000,
+    "address":"0x135f763C5Fa7354f62B2b5BeC662Daa3f69c80DC",
+    "symbol":"FUNDS",
+    "name":"FundsFi",
+    "decimals":18,
+    "logoURI":"https://ibb.co/xs9JB0m"
+  },
+  {
+    "chainId":1666600000,
     "address":"0x85a1DD919cd605aa2EAD4b01ff1190504BcAb609",
     "symbol":"EUSK",
     "name":"Mintbes Token",
